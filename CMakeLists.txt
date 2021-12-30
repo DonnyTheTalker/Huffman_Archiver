@@ -1,0 +1,9 @@
+add_executable(archiver
+        archiver.cpp
+        BitReader.cpp
+        BitWorker.cpp
+        BitWriter.cpp
+        Decoder.cpp
+        Encoder.cpp
+        HuffmanTree.cpp
+        )
